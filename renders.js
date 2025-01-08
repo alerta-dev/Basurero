@@ -1,5 +1,5 @@
   {
-    title: 'Zed O'Brien',
+    title: 'Zed OBrien',
     description: ' By:? - Anime: Kekkai Sensen',
     imageUrl: 'https://64.media.tumblr.com/8127cd190e090f2df578f9bb61e31d38/db8347b3c7f0b20c-dc/s1280x1920/378cd804eaaafcee1ca813f4b7632f709ed62e71.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1zVPqmTXUMN4yhAyg00tvS4HuCUS4dei2/view?usp=sharing', // Reemplaza con tu enlace real
@@ -11,7 +11,7 @@
     downloadUrl: 'https://drive.google.com/file/d/1MiKBpyE7gHkJ0gSXqQ4nnBrMSuQe5kQB/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Yuichiro HYPERLINK "https://drive.google.com/file/d/1vTPOAh8WD7H205FMoFTOBX752gbHytu7/view?usp=sharing"  HYPERLINK "https://drive.google.com/file/d/1vTPOAh8WD7H205FMoFTOBX752gbHytu7/view?usp=sharing"Hyakuya',
+    title: 'Yuichiro Hyakuya',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/c2c300fc0e3a029416130b2adf72234a/db8347b3c7f0b20c-56/s1280x1920/793ad27d97a5f36d0632a476312ebda4f6b347bd.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1vTPOAh8WD7H205FMoFTOBX752gbHytu7/view?usp=sharing', // Reemplaza con tu enlace real
@@ -30,7 +30,7 @@
   },
 
   {
-    title: 'Usagi  HYPERLINK "https://drive.google.com/file/d/15H-xuV5WWqgHeDoxHPVLDbd5_q6gnsTg/view?usp=sharing"Saijonji',
+    title: 'Usagi Saijonji',
     description: ' By:? - Anime: Taimado Gakuen 35 Shiken.rar ',
     imageUrl: 'https://64.media.tumblr.com/716f21dc392cb4900380a1421f1c6bf7/db8347b3c7f0b20c-9c/s1280x1920/140681ad75bc8e3b1099fa7fb1eb89f9a092274a.jpg',
     downloadUrl: 'https://drive.google.com/file/d/15H-xuV5WWqgHeDoxHPVLDbd5_q6gnsTg/view?usp=sharing', // Reemplaza con tu enlace real
@@ -43,7 +43,7 @@
     downloadUrl: 'https://drive.google.com/file/d/16hBZGbJCtwZa0rtPi5b7NZvEeALqLTMs/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Tamaki  HYPERLINK "https://drive.google.com/file/d/1cpwqN_4kZ76wpIrGIAAHftlDXROa01bR/view?usp=sharing"Kotatsu',
+    title: 'Tamaki Kotatsu',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/3c4dfff6ed38ff96f8e69d353930afac/db8347b3c7f0b20c-00/s1280x1920/16506afbd7e0095626d5fb0d5d0e1571749c247d.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1cpwqN_4kZ76wpIrGIAAHftlDXROa01bR/view?usp=sharing', // Reemplaza con tu enlace real
@@ -67,25 +67,25 @@
     downloadUrl: 'https://drive.google.com/file/d/1onavleH1FxxIiRcqoAdVJ0GYHyt-y1o8/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Shinji HYPERLINK "https://drive.google.com/file/d/12QnSNaG4eCvR6gjaogdtboH2FQ7bKI7Y/view?usp=sharing"  HYPERLINK "https://drive.google.com/file/d/12QnSNaG4eCvR6gjaogdtboH2FQ7bKI7Y/view?usp=sharing"Kazama',
+    title: 'Shinji Kazama',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/5410c231ba5fc4de67cf2024a3dffeac/db8347b3c7f0b20c-9b/s1280x1920/d069acbc04bbd8771d0dc22303e34b5f360e5350.jpg',
     downloadUrl: 'https://drive.google.com/file/d/12QnSNaG4eCvR6gjaogdtboH2FQ7bKI7Y/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Shiki  HYPERLINK "https://drive.google.com/file/d/1iMRaIh_A2M-ObmWEHsXDG5lAXJCNqasd/view?usp=sharing"Ryougi',
-    description: ' By:? - Anime: Kara no  HYPERLINK "https://drive.google.com/file/d/1iMRaIh_A2M-ObmWEHsXDG5lAXJCNqasd/view?usp=sharing"Kyoukai ',
+    title: 'Shiki Ryougi',
+    description: ' By:? - Anime: Kara no Kyoukai ',
     imageUrl: 'https://64.media.tumblr.com/a7bd1228e38d76da9fa922fbd7e6b0d0/db8347b3c7f0b20c-db/s1280x1920/b2f9b07bd3aee60f01a95ac44fd536c4fa71e12a.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1iMRaIh_A2M-ObmWEHsXDG5lAXJCNqasd/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Albedo HYPERLINK "https://drive.google.com/file/d/1EwN3OgCFvQ5CupVJXBD_T6EY1g4einKj/view?usp=sharing" ',
+    title: 'Albedo',
     description: ' By:? - Anime: Genshin Impact ',
     imageUrl: 'https://64.media.tumblr.com/a7c1eb6cf43b7404d3dd28c0e235a515/db8347b3c7f0b20c-ae/s1280x1920/573891c3e5a6cfc21e3b842a15c33effa78c48f0.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1EwN3OgCFvQ5CupVJXBD_T6EY1g4einKj/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Satomi  HYPERLINK "https://drive.google.com/file/d/19TO64LcY_5Ji7r4NNHOBP_0W0k2J2Eta/view?usp=sharing"Rentaro',
+    title: 'Satomi Rentaro',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/21fa43b8177c56264d38d0302e813a31/ab3fb9bff5cd10e3-75/s1280x1920/444e971b3cc3ce7c90ee6f0f5b2e3e9a00e07b11.jpg',
     downloadUrl: 'https://drive.google.com/file/d/19TO64LcY_5Ji7r4NNHOBP_0W0k2J2Eta/view?usp=sharing', // Reemplaza con tu enlace real
@@ -98,19 +98,19 @@
   },
   {
     title: 'Saito',
-    description: ' By:? - Anime: Zero No  HYPERLINK "https://drive.google.com/file/d/1vLlf2JfDJrmvRDq3LveciLq6Ix5HHbbF/view?usp=sharing"tsukaima',
+    description: ' By:? - Anime: Zero No tsukaima',
     imageUrl: 'https://64.media.tumblr.com/9f090cab07584236dc1219ccbe1bdc9c/ab3fb9bff5cd10e3-36/s1280x1920/682e24bddd4da5ed2e22c34e6dc121ddd2cadb2b.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1vLlf2JfDJrmvRDq3LveciLq6Ix5HHbbF/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Ryuko HYPERLINK "https://drive.google.com/file/d/1OUOpX9GbBb-4XU7zfg2kjfvf-65-AD9A/view?usp=sharing"  HYPERLINK "https://drive.google.com/file/d/1OUOpX9GbBb-4XU7zfg2kjfvf-65-AD9A/view?usp=sharing"Matoi',
+    title: 'Ryuko Matoi',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/a00c80bb4ffa0967607d984fb24da261/ab3fb9bff5cd10e3-81/s1280x1920/b80963eab53c200dcf5887571599a519ee4f1541.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1OUOpX9GbBb-4XU7zfg2kjfvf-65-AD9A/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Rossiu Adai ',
-    description: ' By:? - Anime: Tengen HYPERLINK "https://drive.google.com/file/d/1FU5xW8lOCbwhkM_9oWhriyJVuUs5noHw/view?usp=sharing" Toppa  HYPERLINK "https://drive.google.com/file/d/1FU5xW8lOCbwhkM_9oWhriyJVuUs5noHw/view?usp=sharing"Gurren HYPERLINK "https://drive.google.com/file/d/1FU5xW8lOCbwhkM_9oWhriyJVuUs5noHw/view?usp=sharing"  HYPERLINK "https://drive.google.com/file/d/1FU5xW8lOCbwhkM_9oWhriyJVuUs5noHw/view?usp=sharing"Lagann ',
+    description: ' By:? - Anime: Tengen Lagann',
     imageUrl: 'https://64.media.tumblr.com/d4e5569ea9136fba7eb8b36fb637ef8b/ab3fb9bff5cd10e3-0c/s1280x1920/0b9dd8fff97d3ae1765db347a6ed53a49ef2737c.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1FU5xW8lOCbwhkM_9oWhriyJVuUs5noHw/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -121,20 +121,20 @@
     downloadUrl: 'https://drive.google.com/file/d/1nqUqWn_piom38tSRHNNIH1ZH6rW1v1F2/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Rin  HYPERLINK "https://drive.google.com/file/d/1o5RnmGQSIVCplDwGAe1UYQi3EAxswOqz/view?usp=sharing"Okumura',
+    title: 'Rin Okumura',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/fc6ed2563c2da7203fae489ac40134fa/ab3fb9bff5cd10e3-2a/s1280x1920/11538664d810a98ebcbfa50922124547484d7c89.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1o5RnmGQSIVCplDwGAe1UYQi3EAxswOqz/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Reima  HYPERLINK "https://drive.google.com/file/d/1pgoswPcx1JWyoUoynMrYt4KyOEeGQtZv/view?usp=sharing"Tenmyouji',
-    description: ' By:? - Anime: Taimado HYPERLINK "https://drive.google.com/file/d/1pgoswPcx1JWyoUoynMrYt4KyOEeGQtZv/view?usp=sharing"  HYPERLINK "https://drive.google.com/file/d/1pgoswPcx1JWyoUoynMrYt4KyOEeGQtZv/view?usp=sharing"Gakuen HYPERLINK "https://drive.google.com/file/d/1pgoswPcx1JWyoUoynMrYt4KyOEeGQtZv/view?usp=sharing" 35  HYPERLINK "https://drive.google.com/file/d/1pgoswPcx1JWyoUoynMrYt4KyOEeGQtZv/view?usp=sharing"Shiken ',
+    title: 'Reima Tenmyouji',
+    description: ' By:? - Anime: Taimado 35 Shiken',
     imageUrl: 'https://64.media.tumblr.com/98a9d3e92f3818c3dc46fdf4fa697b5d/ab3fb9bff5cd10e3-c5/s1280x1920/38fe1ae7348ac161ed79908fd0005cfc8da076b6.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1pgoswPcx1JWyoUoynMrYt4KyOEeGQtZv/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Ratio',
-    description: ' By:? - Anime: Ratio -  HYPERLINK "https://drive.google.com/file/d/1y-koJb-rVv99SU_s2ViMGvIdYQ6ieaNL/view?usp=sharing"Hamatora HYPERLINK "https://drive.google.com/file/d/1y-koJb-rVv99SU_s2ViMGvIdYQ6ieaNL/view?usp=sharing" The Animation.',
+    description: ' By:? - Anime: Ratio - Hamatora  The Animation.',
     imageUrl: 'https://64.media.tumblr.com/e23f0680ae9777ae2a1ad38f4398689e/ab3fb9bff5cd10e3-17/s1280x1920/12656c7586fae45895af1b5ae376f1acd58fd7a8.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1y-koJb-rVv99SU_s2ViMGvIdYQ6ieaNL/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -158,12 +158,12 @@
   },
   {
     title: 'Palet',
-    description: ' By:? - Anime: Siluca HYPERLINK "https://drive.google.com/file/d/1AbZAJluw4mksFT8FiuqK-HyLehMpCwoM/view?usp=sharing"  HYPERLINK "https://drive.google.com/file/d/1AbZAJluw4mksFT8FiuqK-HyLehMpCwoM/view?usp=sharing"Meletes',
+    description: ' By:? - Anime: Siluca Meletes',
     imageUrl: 'https://64.media.tumblr.com/da3cd4c345ebfb390ec9f58ebdb0bef2/db8347b3c7f0b20c-52/s1280x1920/639594d107fbde6bc4f333105cdcb4b3a304d13a.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1AbZAJluw4mksFT8FiuqK-HyLehMpCwoM/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Okada HYPERLINK "https://drive.google.com/file/d/1Qfk_ocGZh2Pn2g00BqkEqiJDcDWkM6f6/view?usp=sharing" Izo',
+    title: 'Okada Izo',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/98833aab832764f8cfd918c6101be8ee/ab3fb9bff5cd10e3-97/s1280x1920/14c85a2fb7f9cb5362e88b6ad597d7d59e6356e2.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1Qfk_ocGZh2Pn2g00BqkEqiJDcDWkM6f6/view?usp=sharing', // Reemplaza con tu enlace real
@@ -176,7 +176,7 @@
   },
   {
     title: 'Nova',
-    description: ' By:? - Anime: Uchuu HYPERLINK "https://drive.google.com/file/d/1IDcRa6zZqRAy8N0t-cVG2UWEqhEdJlI2/view?usp=sharing" Patrol  HYPERLINK "https://drive.google.com/file/d/1IDcRa6zZqRAy8N0t-cVG2UWEqhEdJlI2/view?usp=sharing"Luluco ',
+    description: ' By:? - Anime: Uchuu Luluco ',
     imageUrl: 'https://64.media.tumblr.com/64b05cb8fdb56f341e879867f44d0f59/ab3fb9bff5cd10e3-16/s1280x1920/d919c00430043ca0267cc3c4a630ba58b2ba459b.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1IDcRa6zZqRAy8N0t-cVG2UWEqhEdJlI2/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -194,18 +194,18 @@
   },
   {
     title: 'Neptunia',
-    description: ' By:? - Anime: Choujigen HYPERLINK "https://drive.google.com/file/d/1uD4_JEjX8K7NDkBr0Cm8CDVjpeOexIFh/view?usp=sharing" Game Neptune The Animation ',
+    description: ' By:? - Anime: Choujigen Game Neptune The Animation ',
     imageUrl: 'https://64.media.tumblr.com/253c331c1f7d0826d34fa9d932c273b2/ab3fb9bff5cd10e3-14/s1280x1920/aa1f97044a9f13df108d027dbc6bad79aa8784c3.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1uD4_JEjX8K7NDkBr0Cm8CDVjpeOexIFh/view?usp=sharing', // Reemplaza con tu enlace real
   }, 
   {
-    title: 'Nana  HYPERLINK "https://drive.google.com/file/d/1T07aFu4ItfhP8eLzPFTIpkjDuQoatP87/view?usp=sharing"lida',
+    title: 'Nana lida',
     description: ' By:? - Anime: Rail Wars. ',
     imageUrl: 'https://64.media.tumblr.com/396206b27cd721f0614c0921ee67153c/ab3fb9bff5cd10e3-3d/s1280x1920/0086da7f469d00a0125ff82e3ac37573121e4a38.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1T07aFu4ItfhP8eLzPFTIpkjDuQoatP87/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'nako HYPERLINK "https://drive.google.com/file/d/1bat9Fisgdax3RV7PMhTmtm9gfGqdv0yN/view?usp=sharing"-chan',
+    title: 'nako-chan',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/7a5ddfa313e03f591be60e6ec6469647/ab3fb9bff5cd10e3-2d/s1280x1920/e871317ea9869a7805f8412d0d5fde33b7ccf320.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1bat9Fisgdax3RV7PMhTmtm9gfGqdv0yN/view?usp=sharing', // Reemplaza con tu enlace real
@@ -218,7 +218,7 @@
   },
   {
     title: 'Luluco',
-    description: ' By:? - Anime: Uchuu HYPERLINK "https://drive.google.com/file/d/15ZWZ15BPpM4wiNfRSVGWtMUl19mEQJau/view?usp=sharing" Patrol  HYPERLINK "https://drive.google.com/file/d/15ZWZ15BPpM4wiNfRSVGWtMUl19mEQJau/view?usp=sharing"Luluco ',
+    description: ' By:? - Anime: Uchuu Patrol Luluco ',
     imageUrl: 'https://64.media.tumblr.com/93c8225862d297ee5506c713e24e45b6/ab3fb9bff5cd10e3-08/s1280x1920/d76b29a1f18a139a6b9700bee509541d930d6bbc.jpg',
     downloadUrl: 'https://drive.google.com/file/d/15ZWZ15BPpM4wiNfRSVGWtMUl19mEQJau/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -253,7 +253,7 @@
     downloadUrl: 'https://drive.google.com/file/d/1F_2x44K73CNtv--to2mK2TBbaMed4G17/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: 'Kyoko  HYPERLINK "https://drive.google.com/file/d/17cq8ZM2GHnaVEgBCOuEiCHd8kAMYCVnx/view?usp=sharing"Kirigiri ',
+    title: 'Kyoko Kirigiri ',
     description: ' By:? - Anime: Danganronpa',
     imageUrl: 'https://64.media.tumblr.com/202e8cdabc52c57a54ecc133f740fd51/ab3fb9bff5cd10e3-a3/s1280x1920/1d709dfc905e15dda010f4d17c4855c06f4ce68b.jpg',
     downloadUrl: ' https://drive.google.com/file/d/17cq8ZM2GHnaVEgBCOuEiCHd8kAMYCVnx/view?usp=sharing ', // Reemplaza con tu enlace real
@@ -271,8 +271,8 @@
     downloadUrl: 'https://drive.google.com/file/d/1fL0UQ8UX7b2oxDZNtWjeOtJr-3x9v7cm/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: ' Kittan HYPERLINK "https://drive.google.com/file/d/17_MEbUGAAgpqpC_-vPuYjcoLZaCK8ksg/view?usp=sharing"  HYPERLINK "https://drive.google.com/file/d/17_MEbUGAAgpqpC_-vPuYjcoLZaCK8ksg/view?usp=sharing"Bachika ',
-    description: ' By:? - Anime: Tengen HYPERLINK "https://drive.google.com/file/d/17_MEbUGAAgpqpC_-vPuYjcoLZaCK8ksg/view?usp=sharing" Toppa  HYPERLINK "https://drive.google.com/file/d/17_MEbUGAAgpqpC_-vPuYjcoLZaCK8ksg/view?usp=sharing"Gurren HYPERLINK "https://drive.google.com/file/d/17_MEbUGAAgpqpC_-vPuYjcoLZaCK8ksg/view?usp=sharing"  HYPERLINK "https://drive.google.com/file/d/17_MEbUGAAgpqpC_-vPuYjcoLZaCK8ksg/view?usp=sharing"Lagann ',
+    title: ' Kittan Bachika ',
+    description: ' By:? - Anime: Tengen Toppa Gurren Lagann ',
     imageUrl: 'https://64.media.tumblr.com/ed3e7d2929a05ced5363f7e9201ed3f7/f5c0ff614b64579d-75/s1280x1920/2501e932a300cd165403e4c129db91c715cea3b2.jpg',
     downloadUrl: ' https://drive.google.com/file/d/17_MEbUGAAgpqpC_-vPuYjcoLZaCK8ksg/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -283,7 +283,7 @@
     downloadUrl: ' https://drive.google.com/file/d/1DMAcCkn4Iw8Hu2lEZNZ6ieQ9egEvczMp/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: ' Kanata  HYPERLINK "https://drive.google.com/file/d/1e_VtjPE-MXoMFUiCSQCXk1jB-2nR2IHp/view?usp=sharing"Hoshijima ',
+    title: ' Kanata Hoshijima ',
     description: ' By:? - Anime: Kanata No Astra ',
     imageUrl: 'https://64.media.tumblr.com/ab217dcee92cab8773686ab76db8c100/f5c0ff614b64579d-10/s1280x1920/b8b90b4e59b7e6b807fbbb6d57c80618143c2a71.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1e_VtjPE-MXoMFUiCSQCXk1jB-2nR2IHp/view?usp=sharing ', // Reemplaza con tu enlace real
@@ -319,7 +319,7 @@
     downloadUrl: ' https://drive.google.com/file/d/1Zk1Lu8O0EUxKhTbaOo_c0B0WZNMP2lNj/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: ' Illyasviel HYPERLINK "https://drive.google.com/file/d/10L5895ZdWEmSmvvve03Ec1EpPgRd06of/view?usp=sharing" von  HYPERLINK "https://drive.google.com/file/d/10L5895ZdWEmSmvvve03Ec1EpPgRd06of/view?usp=sharing"Einzbern ',
+    title: ' Illyasviel Einzbern ',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/4fc3ec89b8c1fb23d866dbe8ba58fbc4/f5c0ff614b64579d-61/s1280x1920/a361fa4a90f026cef2da64a5f1262480523b09f4.jpg',
     downloadUrl: ' https://drive.google.com/file/d/10L5895ZdWEmSmvvve03Ec1EpPgRd06of/view?usp=sharing ', // Reemplaza con tu enlace real
@@ -332,7 +332,7 @@
   },
   {
     title: ' IF ',
-    description: ' By:? - Anime: Choujigen HYPERLINK "https://drive.google.com/file/d/11OX_iZUpLijMXZ77TjQ0JpGqwV0Tv2d2/view?usp=sharing" Game Neptune The Animation ',
+    description: ' By:? - Anime: Choujigen Game Neptune The Animation ',
     imageUrl: 'https://64.media.tumblr.com/d6b07c06af3ae7c692b3405a4d3c4b77/f5c0ff614b64579d-9e/s1280x1920/35f263f59c46976373cbbc6ee04a9053760b9125.jpg',
     downloadUrl: ' https://drive.google.com/file/d/11OX_iZUpLijMXZ77TjQ0JpGqwV0Tv2d2/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -349,7 +349,7 @@
     downloadUrl: ' https://drive.google.com/file/d/161HOFOX_0Wpg7w6fUDRinHUOrOB8vORj/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: ' Galo  HYPERLINK "https://drive.google.com/file/d/1Qf7_PvnrYNXNB6qE1KIgoC8GIRIZtfjD/view?usp=sharing"Thymos ',
+    title: ' Galo Thymos ',
     description: ' By:? - Anime: Promare ',
     imageUrl: 'https://64.media.tumblr.com/dbd367af6ba47bdc1b1ab81a02ae38b3/f5c0ff614b64579d-3a/s1280x1920/035523ba2454959a758910054a7e60e1485a04be.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1Qf7_PvnrYNXNB6qE1KIgoC8GIRIZtfjD/view?usp=sharing ', // Reemplaza con tu enlace real
@@ -391,13 +391,13 @@
     downloadUrl: 'https://drive.google.com/file/d/18N3NP79N7ZS1M58Av24GflxaxGwNY-bh/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Bisco  HYPERLINK "https://drive.google.com/file/d/1dt4OHmmsbDBGAeTd1ctqVw4TZp3XPqRF/view?usp=sharing"Akaboshi HYPERLINK "https://drive.google.com/file/d/1dt4OHmmsbDBGAeTd1ctqVw4TZp3XPqRF/view?usp=sharing" y Milo  HYPERLINK "https://drive.google.com/file/d/1dt4OHmmsbDBGAeTd1ctqVw4TZp3XPqRF/view?usp=sharing"Nekoyanagi',
-    description: ' By:? - Anime:  HYPERLINK "https://drive.google.com/file/d/1dt4OHmmsbDBGAeTd1ctqVw4TZp3XPqRF/view?usp=sharing"Sabikui HYPERLINK "https://drive.google.com/file/d/1dt4OHmmsbDBGAeTd1ctqVw4TZp3XPqRF/view?usp=sharing" Bisco ',
+    title: 'Bisco Akaboshi y Milo Nekoyanagi',
+    description: ' By:? - Anime: Sabikui Bisco ',
     imageUrl: 'https://64.media.tumblr.com/10cbbaeeb40d17287c1aeb6c33435744/f5c0ff614b64579d-8f/s1280x1920/645c77e49c5478c1ab2a842ac12f8a8411d5c865.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1dt4OHmmsbDBGAeTd1ctqVw4TZp3XPqRF/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Asuha HYPERLINK "https://drive.google.com/file/d/1fA7FkMsKIyzR3YTkEgRsd-Xq1A_nF6tn/view?usp=sharing"  HYPERLINK "https://drive.google.com/file/d/1fA7FkMsKIyzR3YTkEgRsd-Xq1A_nF6tn/view?usp=sharing"Chigusa',
+    title: 'Asuha Chigusa',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/a26804a59b7253e1a22354b8fb8bc382/f5c0ff614b64579d-2f/s1280x1920/c5c70f1138486258d8ae186a1ec89b6a22afbd3f.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1fA7FkMsKIyzR3YTkEgRsd-Xq1A_nF6tn/view?usp=sharing', // Reemplaza con tu enlace real
@@ -433,7 +433,7 @@
     downloadUrl: 'https://drive.google.com/file/d/1G6XX6b4WBAoc5rQNA6-gOcc8jPWsrDoz/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Alektra HYPERLINK "https://drive.google.com/file/d/1siWDRwuJi7pUXYryqJOwkfASZt9Ak50K/view?usp=sharing"  HYPERLINK "https://drive.google.com/file/d/1siWDRwuJi7pUXYryqJOwkfASZt9Ak50K/view?usp=sharing"Maria',
+    title: 'Alektra Maria',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/6bedc713817b4ad76e145b8a76483531/f5c0ff614b64579d-06/s1280x1920/b281af0d38a0e8b9ae4f00f5f9e24827298a56ab.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1siWDRwuJi7pUXYryqJOwkfASZt9Ak50K/view?usp=sharing', // Reemplaza con tu enlace real
