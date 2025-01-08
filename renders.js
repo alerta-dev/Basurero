@@ -154,7 +154,7 @@
     title: 'Quinella',
     description: ' By:? - Anime: Sword Art Online Alicization ',
     imageUrl: 'https://64.media.tumblr.com/0cb44a8f2b5f91499ba6eb8e1645b691/ab3fb9bff5cd10e3-7d/s1280x1920/3ed7be813224c241ac3814452f2d34fb25bd28ea.jpg',
-    downloadUrl: 'https://drive.google.com/file/d/11mt73FPnjKivQPBjjgEbCq5l1VqO2e5X/view?usp=sharing', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/11mt73FPnjKivQPBjjgEbCq5l1VqO2e5X/view?usp=sharing', // Reemplaza con tu enlace real 
   },
   {
     title: 'Palet',
